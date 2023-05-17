@@ -1,0 +1,20 @@
+{
+  "name": "consuming-api-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ApiService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiceloVilakazi/Consuming-API-Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiceloVilakazi/Consuming-API-Exercise/issues"
+  },
+  "homepage": "https://github.com/SiceloVilakazi/Consuming-API-Exercise#readme"
+}
